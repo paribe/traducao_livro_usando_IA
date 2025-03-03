@@ -1,0 +1,5 @@
+.venv
+tests
+traducao_livro_usando_ia
+poetry.lock
+pyproject.toml
